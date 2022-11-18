@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<WORK>
+<HEAD>
+<Ver></Ver>
+<Name>1950-1-Rahovice-Naxhie</Name>
+<Operator></Operator>
+<Instrument></Instrument>
+<Remark></Remark>
+<CreateDateTime>2022-11-18 09:22:29</CreateDateTime>
+<DxfMapFileConfig>/storage/emulated/0/Download/1950-1-Rahovice-Bedriu.dxf</DxfMapFileConfig>
+</HEAD>
+<WorkOption>
+<Zone></Zone>
+<ArithmeticType></ArithmeticType>
+<FileAngleFormatType>2</FileAngleFormatType>
+<StakeoutPlaySound></StakeoutPlaySound>
+<CoordinateSystemParEncrypt>0</CoordinateSystemParEncrypt>
+<UseCoordSystemType>0</UseCoordSystemType>
+<RtcmInputEllipsoid></RtcmInputEllipsoid>
+<RtcmInputProjectPar></RtcmInputProjectPar>
+<RtcmInputSevenPar></RtcmInputSevenPar>
+<RtcmInputFourPar></RtcmInputFourPar>
+<RtcmInputHeightFitting></RtcmInputHeightFitting>
+<RtcmInputVerticalPar></RtcmInputVerticalPar>
+<RtcmInputCorrectPar></RtcmInputCorrectPar>
+<RtcmPassword></RtcmPassword>
+<HuNanActiveCode></HuNanActiveCode>
+<HuNanParamFilePath></HuNanParamFilePath>
+<HuNanLibFilePath></HuNanLibFilePath>
+</WorkOption>
+<DataOption>
+<DataFileName>1950-1-Rahovice-Naxhie.PD</DataFileName>
+<Mode></Mode>
+<Mode_Sub></Mode_Sub>
+<DictionaryFileName></DictionaryFileName>
+</DataOption>
+</WORK>
