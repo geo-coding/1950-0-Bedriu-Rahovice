@@ -59,6 +59,11 @@ Arë (6) 987
 Livadh (3) 189
 Xhelpsinë
 
+Nr.Parc	Siperfaqia	
+2310-4	187	m²
+2310-5	989	m²
+Gjithsej	1176	m²
+
 # nr landes
 266/2022
 
