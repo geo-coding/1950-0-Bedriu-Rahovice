@@ -62,6 +62,9 @@ Xhelpsinë
 # nr landes
 266/2022
 
+# dyfishet
+38902,48173
+
 
 # pagesat
 pagesat e kryera per oborrin dhe per aren kompenzimin
