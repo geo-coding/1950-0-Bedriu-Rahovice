@@ -23,11 +23,12 @@ Naxhie Sylejmani    1000913657  +38344378904
 # parcela 
 1950-1
 3680
-3703
-23
+3712
+32
 61
 Xhelpsinë
 Arë (6)
+(3703)
 
 Nr.Parc	Siperfaqia	
 1950-3	1298	m²
