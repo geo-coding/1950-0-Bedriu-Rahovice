@@ -38,8 +38,8 @@ Nr.Parc	Siperfaqia
 Gjithsej	3712	m²
 
 Nr.Parc	Siperfaqia	
-2310-4	136	m²
-2310-5	1039	m²
+02310-4	136	m²
+02310-5	1039	m²
 Gjithsej	1176	m²
 
 # nr landes
