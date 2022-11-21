@@ -29,14 +29,13 @@ Naxhie Sylejmani    1000913657  +38344378904
 Xhelpsinë
 Arë (6)
 
-
 Nr.Parc	Siperfaqia	
 1950-3	1298	m²
-1950-4	858	m²
-1950-5	1210	m²
+1950-4	859	m²
+1950-5	1218	m²
 1950-6	337	m²
-Gjithsej	3703	m²
-		
+Gjithsej	3712	m²
+
 Nr.Parc	Siperfaqia	
 2310-4	136	m²
 2310-5	1039	m²
@@ -44,6 +43,9 @@ Gjithsej	1176	m²
 
 # nr landes
 265/2022
+
+# dyfishet
+41,5032
 
 
 # pronari
