@@ -77,3 +77,4 @@ pagesat e kryera per oborrin dhe per aren kompenzimin
 140 (80 + 20 ) Bedriu
 140 (80 + 20 )  Muhameti
 dt. 18.11.2022 
+
