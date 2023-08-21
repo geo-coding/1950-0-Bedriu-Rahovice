@@ -124,3 +124,14 @@ Nr.Parc	Siperfaqia		Nr.Parc	Siperfaqia
 01715-0	2613	m²			
 Gjithsej	3393	m²	Gjithsej	3393	m²
 
+# 1714-0 dhe 1715-0
+
+## pronari
+
+HETEM  MUSLIU  1005083032
+
+RAHOVICE
+
+## nr landes
+
+## dyfishet
